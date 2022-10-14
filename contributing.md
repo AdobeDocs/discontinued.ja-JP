@@ -1,8 +1,8 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '296'
+ht-degree: 100%
 
 ---
 # 寄稿
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 寄稿者ガイドドキュメント
 
-詳しくは、 [寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+[寄稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## ご質問がある場合は、
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## コードレビュー
 
-すべての送信はプル要求の形式でおこなわれ、プロジェクトコミッターによるレビューを受ける必要があります。プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://help.github.com/jp/articles/about-pull-requests/)を参照してください。
+すべての送信はプル要求の形式でおこなわれ、プロジェクトコミッターによるレビューを受ける必要があります。プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://help.github.com/articles/about-pull-requests/)を参照してください。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
