@@ -1,24 +1,24 @@
 ---
-title: 廃止されたの概要 [!DNL Adobe Experience Cloud] 製品
-description: の廃止、廃止、または提供終了の製品の概要 [!DNL Adobe Experience Cloud] および [!DNL Adobe Experience Platform]
+title: 廃止された  [!DNL Adobe Experience Cloud]  製品の概要
+description: ' [!DNL Adobe Experience Cloud]  および  [!DNL Adobe Experience Platform] の廃止、廃止、またはサポート終了製品の概要'
 source-git-commit: 68baba5c3f5347952723a31971b1b14902f2e442
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 
 
-# 廃止されたAdobe Experience Cloud製品の概要
+# 廃止された Adobe Experience Cloud 製品の概要
 
-Adobeは、市場の状況や顧客への影響の変化の結果として、製品やテクノロジーの販売、開発、サポートを中断する場合があります。
+アドビは、市場の状況の変化や顧客への影響の結果として、製品やテクノロジーの販売、開発、サポートを中止することがあります。
 
 ## 廃止された製品のリスト
 
 * [[!DNL Device Co-op]](device-co-op.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
-* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target=&quot;_blank&quot;}
+* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=ja){target=&quot;_blank&quot;}
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
 
@@ -31,19 +31,19 @@ Adobeは、市場の状況や顧客への影響の変化の結果として、製
 
 ## リブランディングした製品のリスト
 
-* *[!DNL Adobe Acrobat DC]* 今 *[!DNL Adobe Acrobat]*.
-* *[!DNL Adobe Sign]* 今 *[!DNL Acrobat Sign]*.
-* *[!DNL Magento]* 今 *[!DNL Adobe Commerce]*.
-* *[!DNL Launch]*/*[!DNL Experience Platform Launch]* は現在、 *タグ* in [!DNL Adobe Data Collection]. 詳しくは、 [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
-* *[!DNL XML Documentation for Adobe Experience Manager]* 今 *[!DNL Adobe Experience Manager Guides]*.
-* *[!DNL Captivate Prime]* 今 *[!DNL Adobe Learning Manager]*.
-* *[!DNL Bizible]* 今 *[!DNL Marketo Measure]*.
+* *[!DNL Adobe Acrobat DC]* は *[!DNL Adobe Acrobat]* になりました。
+* *[!DNL Adobe Sign]* は *[!DNL Acrobat Sign]* になりました。
+* *[!DNL Magento]* は *[!DNL Adobe Commerce]* になりました。
+* *[!DNL Launch]*／*[!DNL Experience Platform Launch]* は、[!DNL Adobe Data Collection] では&#x200B;*タグ*&#x200B;と呼ばれるようになりました。[タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja)を参照してください。
+* *[!DNL XML Documentation for Adobe Experience Manager]* は *[!DNL Adobe Experience Manager Guides]* になりました。
+* *[!DNL Captivate Prime]* は *[!DNL Adobe Learning Manager]* になりました。
+* *[!DNL Bizible]* は *[!DNL Marketo Measure]* になりました。
 
 ## その他の廃止された製品
 
-* *[!DNL Adobe Bloodhound]* は 2017 年 5 月 1 日に廃止されました。
-* *[!DNL AEM Mobile]* は 2021 年 4 月 3 日に廃止されました。 詳しくは、 [AEM Mobileの提供終了に関する FAQ](https://helpx.adobe.com/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
+* *[!DNL Adobe Bloodhound]* は、2017年5月1日（PT）に廃止されました。
+* *[!DNL AEM Mobile]* は、2021年4月3日（PT）に廃止されました。[AEM Mobile のサポート終了に関する FAQ](https://helpx.adobe.com/jp/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html) を参照してください。
 
 >[!MORELIKETHIS]
 >
->提供が停止されたその他のAdobeアプリおよびサービスの一覧については、 [無料および廃止された製品 |サポートオプション](https://helpx.adobe.com/support/programs/support-options-free-discontinued-apps-services.html).
+>その他の製造中止になったアドビのアプリとサービスのリストについては、[無償製品と廃止された製品のサポートオプション](https://helpx.adobe.com/jp/support/programs/support-options-free-discontinued-apps-services.html)を参照してください。
