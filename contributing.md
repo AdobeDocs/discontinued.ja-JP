@@ -1,8 +1,8 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # 寄稿
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 ## 寄稿者ガイドドキュメント
 
-[寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+[寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 ## ご質問がある場合は、
 
@@ -29,7 +29,7 @@ ht-degree: 97%
 
 ## コードレビュー
 
-すべての送信はプル要求の形式でおこなわれ、プロジェクトコミッターによるレビューを受ける必要があります。プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://help.github.com/articles/about-pull-requests/)を参照してください。
+すべての送信はプル要求の形式でおこなわれ、プロジェクトコミッターによるレビューを受ける必要があります。プル要求の送信について詳しくは、[GitHub のプル要求に関するドキュメント](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)を参照してください。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
