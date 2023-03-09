@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: 「[!DNL Device Co-op] のサービス終了に関する FAQ」
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: ht
-source-wordcount: '1138'
-ht-degree: 100%
+source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
+workflow-type: tm+mt
+source-wordcount: '1134'
+ht-degree: 99%
 
 ---
 
@@ -104,5 +104,5 @@ Adobe Experience Platform ID サービスの[非公開グラフ](https://experie
 
 ## [!UICONTROL 人数]指標についてはどうですか？
 
-[!DNL Device Co-op] の廃止に伴い、[!UICONTROL 人物]指標は関係なくなりました。近い将来（日付は未定）、[!UICONTROL 人物]指標を削除します。その際、そのデータは Analytics の[!UICONTROL ユニーク訪問者]指標にリダイレクトされ、プロジェクト、セグメントおよび計算指標が壊れないようになります。
+[!DNL Device Co-op] の廃止に伴い、[!UICONTROL 人物]指標は関係なくなりました。2023 年 5 月 8 日に、 [!UICONTROL 人] 指標。 その際、そのデータは Analytics の[!UICONTROL ユニーク訪問者]指標にリダイレクトされ、プロジェクト、セグメントおよび計算指標が壊れないようになります。
 
