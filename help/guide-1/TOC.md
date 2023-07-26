@@ -5,7 +5,7 @@ user-guide-description: ' [!DNL Adobe Experience Cloud] で廃止された製品
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 78%
 + [Mobile Services](mobile-services.md)
 + [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
-+ [Adobe Experience Cloud Library](experience-cloud-library.md)
++ [Adobe Experience Cloud ライブラリ](experience-cloud-library.md)
