@@ -2,10 +2,10 @@
 title: 「[!DNL Adobe Search&Promote] のサービス終了のお知らせ」
 description: 詳しくは、 [!DNL Adobe Search&Promote]  のサービス終了のお知らせを参照してください。
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 67%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 ## [!DNL Search&Promote] のサービス終了に関するよくある質問
 
-### **_[!DNL Search&Promote] はいつ運用を停止しますか？_**
+### **_日付 [!DNL Search&Promote] 手術をやめる？_**
 
-[!DNL Adobe Search&Promote] は **2022年9月1日（PT）**&#x200B;にサービスを終了します。その日をもって、[!DNL Search&Promote] 管理ユーザーインターフェイスにアクセスできなくなり、[!DNL Search&Promote] API へのリクエストで結果が配信されなくなります。この日までに、サービスは完全に利用可能になり、機能するようになります。2022年9月1日を見越して、[!DNL Search&Promote] に対する契約上の権利は、2022年8月31日以降は許可されません。
+のサービス終了 [!DNL Adobe Search&Promote] は次の日付に予定されています： **2022 年 9 月 2 日**. その日に、 [!DNL Search&Promote] 管理ユーザーインターフェイスにアクセスできなくなり、にリクエストが送信されました。 [!DNL Search&Promote] API が結果を配信しなくなりました。
 
 ### **_検索やその他の API リクエストが [!DNL Search&Promote] に対して行われた場合はどうなりますか？_**
 
-[!DNL Search&Promote] に対して行われた検索およびその他の API リクエストでは、結果が返されなくなります。リクエストの結果、「ホストが見つかりません」エラー、3xx HTTP リダイレクトや、404、408、その他の HTTP エラーコードなどの HTTP エラーが発生する場合があります。
+に対しておこなわれた検索およびその他の API リクエスト [!DNL Search&Promote] 結果が返されなくなりました。 リクエストの結果、「ホストが見つかりません」エラー、3xx HTTP リダイレクトや、404、408、その他の HTTP エラーコードなどの HTTP エラーが発生する場合があります。
 
 ### **_アドビには、サイト検索とコマース検索の代替オプションがありますか？_**
 
-はい。 製品およびコマース検索については、今後は[ [!DNL Adobe Commerce] のライブ検索](https://devdocs.magento.com/live-search/overview.html)がアドビの検索アプリケーションとなります。
+はい。 製品およびコマース検索については、今後は[ [!DNL Adobe Commerce] のライブ検索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en)がアドビの検索アプリケーションとなります。
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
