@@ -3,7 +3,7 @@ title: 廃止された  [!DNL Adobe Experience Cloud]  製品の概要
 description: ' [!DNL Adobe Experience Cloud]  および  [!DNL Adobe Experience Platform] の廃止、廃止、またはサポート終了製品の概要'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
