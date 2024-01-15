@@ -3,9 +3,9 @@ user-guide-title: ' [!DNL Adobe Experience Cloud] の廃止された製品'
 breadcrumb-title: 廃止された製品
 user-guide-description: ' [!DNL Adobe Experience Cloud] で廃止された製品のリスト。'
 source-git-commit: be77108bafffae49c9973750d865ebac8f595b96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
