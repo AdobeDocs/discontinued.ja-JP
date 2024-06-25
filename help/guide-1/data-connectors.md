@@ -5,26 +5,26 @@ exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 79%
 
 ---
 
 # AdobeData Connectors統合の提供終了
 
-**2021 年 8 月 19 日（PT）より**、AdobeはData Connectors統合を廃止し、 [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobeは、お客様およびパートナーに対して、可能な限りシームレスに移行を行うことを目指しています。
+**2021年8月19日（PT）**&#x200B;より、アドビは Data Connectors の統合を廃止し、[Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) に置き換えました。アドビでは、お客様とパートナーに対して、可能な限りシームレスに移行を行うことを目指しています。
 
-Adobe Analyticsは、お客様のニーズを満たす、クラス最高の web およびマーケティング分析の提供を目指しています。 テクノロジとビジネスのニーズが進化するにつれ、Adobeは常に最高の標準を提供し、満たすよう努めています。 Data Connectors統合を強化する API は、これらの標準を満たさなくなり、Adobeの最新のテクノロジーインフラストラクチャでは使用できなくなりました。
+Adobe Analytics では、お客様のニーズを満たすクラス最高の web およびマーケティング分析の提供を目指しています。テクノロジーとビジネスのニーズが進化するにつれて、アドビでは最高の標準を提供し、満たすよう継続的に努めています。Data Connectors の統合の原動力となる API は、これらの標準を満たさなくなり、アドビの最新のテクノロジーインフラストラクチャでは維持することができません。
 
 なお、この提供終了のお知らせは、Adobe Experience Platformのデータ収集機能であるAdobeソースコネクタには当てはまりません。 Adobeソースコネクタ（Adobe Data Connectorsと呼ばれることもあります）は、Adobeで完全にサポートされています。
 
-## この機能がAdobeの提供終了になった理由
+## アドビがこの機能のサービスを終了した理由？
 
-この機能は、実行不可能またはサポートされなくなったレガシーテクノロジーを利用していました。 この [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) は、Adobeソリューションの現在の統合を見つける場所になりました。
+この機能は、実行またはサポートされなくなったレガシーテクノロジーを利用していました。アドビのソリューションに対する最新の統合は、[Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) で見つけることができます。
 
-## この機能を削除すると、どのような影響がありますか？
+## この機能を削除する影響？
 
-Adobeパートナーの場合は、Adobe Exchangeを統合プログラムに移行する方法の詳細は、次の場所にあります。 [Adobe技術パートナープログラム支援センター](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003867071-Adobe-Analytics-Integration-Tools).
+Adobe パートナーの場合、Adobe Exchange プログラムへの統合の移行について詳しくは、[Adobe テクノロジーパートナープログラムサポートセンター](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003867071-Adobe-Analytics-Integration-Tools)で確認できます。
 
-Data Connector のお客様で、使用する統合を移行するようにリクエストする場合は、すべてのリクエストを統合パートナーに直接ルーティングしてください。 パートナーは、新しい API への移行をコミットする必要があります。 Adobeカスタマーケアは、パートナーに新しい API への移行を強制できません。 統合を提供する各企業には、統合をAdobe Exchangeに移行するか、統合を中止するかを選択するオプションが与えられました。
+Data Connector のお客様で、使用する統合の移行をリクエストする場合は、すべてのリクエストを統合パートナーに直接ルーティングしてください。パートナーは、新しい API への移行にコミットする必要があります。アドビカスタマーケアでは、パートナーに新しい API への移行を強制できません。統合を提供する各会社は、統合を Adobe Exchange に移行するか、統合を中止するかのオプションが示されました。
 
-ご質問やサポートについては、Adobeカスタマーケアにお問い合わせください。
+ご質問やサポートについては、アドビカスタマーケアにお問い合わせください。
