@@ -1,21 +1,21 @@
 ---
-description: Adobe Analytics Data Connectors統合の廃止について説明します。
-title: Analytics Data Connectors統合の提供終了
+description: Adobe Analytics Data Connectors 統合の廃止について説明します。
+title: Analytics Data Connectors 統合のサービス終了
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# AdobeData Connectors統合の提供終了
+# Adobe Data Connectors 統合のサービス終了
 
 **2021年8月19日（PT）**&#x200B;より、アドビは Data Connectors の統合を廃止し、[Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) に置き換えました。アドビでは、お客様とパートナーに対して、可能な限りシームレスに移行を行うことを目指しています。
 
 Adobe Analytics では、お客様のニーズを満たすクラス最高の web およびマーケティング分析の提供を目指しています。テクノロジーとビジネスのニーズが進化するにつれて、アドビでは最高の標準を提供し、満たすよう継続的に努めています。Data Connectors の統合の原動力となる API は、これらの標準を満たさなくなり、アドビの最新のテクノロジーインフラストラクチャでは維持することができません。
 
-なお、この提供終了のお知らせは、Adobe Experience Platformのデータ収集機能であるAdobeソースコネクタには当てはまりません。 Adobeソースコネクタ（Adobe Data Connectorsと呼ばれることもあります）は、Adobeで完全にサポートされています。
+なお、このサポート終了のお知らせは、Adobe Experience Platform 内のデータ収集機能である Adobe Source Connectors には適用されません。Adobe Source Connectors（Adobe Data Connectors と呼ばれることもある）は、アドビが完全にサポートしています。
 
 ## アドビがこの機能のサービスを終了した理由？
 
