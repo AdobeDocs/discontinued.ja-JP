@@ -3,8 +3,8 @@ title: Adobe Mobile Services の提供終了に関する FAQ
 description: AdobeMobile Services の提供終了のお知らせに関するよくある質問への回答を得ます。
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
-workflow-type: ht
-source-wordcount: '421'
+workflow-type: tm+mt
+source-wordcount: '396'
 ht-degree: 100%
 
 ---
