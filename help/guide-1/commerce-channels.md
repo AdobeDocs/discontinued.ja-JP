@@ -2,7 +2,7 @@
 title: Adobe Commerce 用チャネルマネージャー拡張機能
 description: Adobe Commerce 用チャネルマネージャー拡張機能の提供終了のタイミングについて説明します。
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
