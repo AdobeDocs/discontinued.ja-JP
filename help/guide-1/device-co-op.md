@@ -4,9 +4,9 @@ title: '[!DNL Device Co-op] のサービス終了に関する FAQ'
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 2e33e76c0fbb45661fd92297b0f91e5b8f304b6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1053'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
