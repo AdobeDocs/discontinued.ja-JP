@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### **_アドビには、サイト検索とコマース検索の代替オプションがありますか？_**
 
-はい。 製品およびコマース検索については、今後は[ [!DNL Adobe Commerce] のライブ検索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ja)がアドビの検索アプリケーションとなります。
+はい。 製品およびコマース検索については、今後は[&#x200B; [!DNL Adobe Commerce] のライブ検索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ja)がアドビの検索アプリケーションとなります。
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
