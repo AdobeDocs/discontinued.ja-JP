@@ -4,9 +4,9 @@ description: これは隠されたテストです
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: fdcc74a0636e2de1f3e2fd751a09f8d19f9994b9
+source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 これは隠されたテストです。  検索には表示されません。
 
-Bob はスプリントのデモのためにここにいた。
+ボブはスプリントのデモを見に来て、レイクシャーがステージを本番環境に展開した後も…
 
 アジャイが来た。
 
@@ -27,7 +27,7 @@ Bob はスプリントのデモのためにここにいた。
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -36,7 +36,7 @@ Bob はスプリントのデモのためにここにいた。
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
