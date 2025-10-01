@@ -3,7 +3,7 @@ title: Adobe Commerce 用チャネル
 description: Amazon Sales Channel および Adobe Commerce 用チャネルマネージャー拡張機能の提供終了のタイミングについて説明します。
 exl-id: 40ff120b-4f37-4ef6-a3ad-e7ee67dd3e23
 source-git-commit: 6b03116209a95da21acface2d1fb34b0f9c8677c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
