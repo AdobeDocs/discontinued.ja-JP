@@ -4,9 +4,9 @@ description: これは隠されたテストです
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
+source-git-commit: 221759dd781b3db95a10098b2d0d727f1d5f08bf
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ボブはスプリントのデモを見に来て、レイクシャーがステージを本番環境に展開した後も…
 
-アジャイが来た。
+10 月 2 日（Pt）
 
 ## ホバーテキスト テスト
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -36,7 +36,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
