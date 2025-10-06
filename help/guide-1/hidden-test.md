@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 700d6e5dfa07d4b351af5fbd30635d165affd248
+source-git-commit: 70caa41f852752f2dd5d55b9070bdd2459cecc77
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ボブはスプリントのデモを見に来て、レイクシャーがステージを本番環境に展開した後も…
 
-10 月 2 日（Pt）
+10 月 6 日（Pt）
 
 ## ホバーテキスト テスト
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -38,7 +38,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
