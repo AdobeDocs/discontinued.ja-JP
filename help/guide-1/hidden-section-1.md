@@ -3,9 +3,9 @@ title: 非表示のセクション 1 テスト
 description: これは隠されたテスト 1 です
 hide: true
 hidefromtoc: true
-source-git-commit: 0532adaaec172a8b9cf542fe7ee3a8e2b68f5408
+source-git-commit: b1645237c94cfe492e38ac0321e7ee754863274a
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,3 @@ ht-degree: 0%
 
 非表示のテスト 1
 テスト：この変更がすべての lang リポジトリに適用されることを確認します。
-
-&#x200B;# 非表示のタイトル
-
-大文字の検証
