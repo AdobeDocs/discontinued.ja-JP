@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c0d3e777a9cf53e2877eee7c782e2eec9808ebd8
+source-git-commit: c901ef4b1607a3d03a995b8e6ada5860ae587706
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 10 月 16 日（Pt）
 
-## ホバーテキスト テスト
+## ホバーテキスト テスト {#this-is-a-heading-anchor}
 
 ホバーテキストなし
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -38,7 +38,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
