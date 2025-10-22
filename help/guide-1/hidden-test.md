@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 1db1adaee009bf29b847f7d7b7c7e6f8e906cbf2
+source-git-commit: d8456b4db6630d3669d088ac89f8eaf365d42aad
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ボブはスプリントのデモを見に来て、レイクシャーがステージを本番環境に展開した後も…
 
-10 月 22 日（PT）、ボブとサリカがまた来ました！
+10 月 22 日（PT）、ボブとサリカが何度もここに来ています。
 
 ## ホバーテキスト テスト {#this-is-a-heading-anchor}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -39,7 +39,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
