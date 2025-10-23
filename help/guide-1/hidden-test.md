@@ -7,18 +7,18 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0f37cc8cfe6eaacc33ef3ba1af1ed4fc3ef3a607
+source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # 非表示のテスト
 
-これは隠されたテストです。  検索には表示されません。
+これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
 
-ボブはスプリントのデモを見に来て、レイクシャーがステージを本番環境に展開した後も…
+Bob はスプリントのデモのためにここにいて、Lakshay がステージを実稼動環境に移行した後も同様でした。
 
 10 月 22 日（PT）、ボブとサリカが何度もここに来ています。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -39,7 +39,7 @@ ht-degree: 0%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
