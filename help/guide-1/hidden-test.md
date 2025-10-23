@@ -30,7 +30,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg)
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -39,7 +39,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
