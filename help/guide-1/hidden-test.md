@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
+source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,18 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 
 10 月 22 日（PT）、ボブとサリカが何度もここに来ています。
 
+## 相対リンク
+
+* [概要](overview.md)
+* [検索と昇格](search-promote.md)
+* [Social](social.md)
+
+## 明示的なディープリンク
+
+[概要の追加（ルート）](/help/guide-1/overview.md#additional-products)
+
+[概要の追加](overview.md#additional-products)
+
 ## ホバーテキスト テスト {#this-is-a-heading-anchor}
 
 ホバーテキストなし
@@ -30,7 +42,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -39,7 +51,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 

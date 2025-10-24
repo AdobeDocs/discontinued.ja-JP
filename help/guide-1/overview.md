@@ -2,7 +2,7 @@
 title: 廃止された  [!DNL Adobe Experience Cloud]  製品の概要
 description: ' [!DNL Adobe Experience Cloud]  および  [!DNL Adobe Experience Platform] の廃止、廃止、またはサポート終了製品の概要'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 3019dde6f05912926a1630f486fbe4c358ccf4ce
+source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -45,7 +45,7 @@ ht-degree: 100%
 * *[!DNL Captivate Prime]* は *[!DNL Adobe Learning Manager]* になりました。
 * *[!DNL Bizible]* は *[!DNL Marketo Measure]* になりました。
 
-## その他の廃止された製品
+## その他の廃止された製品 {#additional-products}
 
 * *[!DNL Adobe Bloodhound]* は、2017年5月1日（PT）に廃止されました。
 * *[!DNL AEM Mobile]* は、2021年4月3日（PT）に廃止されました。[AEM Mobile のサポート終了に関する FAQ](https://helpx.adobe.com/jp/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html) を参照してください。
