@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 19ea79fc93e7d47d09dd8d96189578ef56c82314
+source-git-commit: feaf14e57e2e0aefbe07fd254b1f2a7ebe90ba89
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -23,6 +23,13 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 マットはここにいた – 10 月 28 日。
 
 Slack通知？ 10 月 30 日（Pt）
+
+## 無効なテーブル
+
+| タスク | 説明 |
+| -----------| ---------- |  
+| [Analytics 用のExperience Cloud ID サービスの実装 ](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobeでは、追加の [ 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
+| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [ コードマネージャー ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) でダウンロードできます。 （[JavaScript実装 ](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
 
 ## 相対リンク
 
@@ -44,7 +51,7 @@ Slack通知？ 10 月 30 日（Pt）
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -53,7 +60,7 @@ Slack通知？ 10 月 30 日（Pt）
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
