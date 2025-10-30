@@ -44,7 +44,7 @@ Slack通知？ 10 月 30 日（Pt）
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg)
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -53,7 +53,7 @@ Slack通知？ 10 月 30 日（Pt）
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
