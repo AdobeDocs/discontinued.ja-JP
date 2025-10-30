@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c8b449fadd96b59ed78668fd557bc4f1853820d3
+source-git-commit: 19ea79fc93e7d47d09dd8d96189578ef56c82314
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 
 マットはここにいた – 10 月 28 日。
 
-2025 年 10 月 29 日 – ボブとサリカは何度も何度もここにいます！
+Slack通知？ 10 月 30 日（Pt）
 
 ## 相対リンク
 
@@ -44,7 +44,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -53,7 +53,7 @@ Bob はスプリントのデモのためにここにいて、Lakshay がステ�
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
