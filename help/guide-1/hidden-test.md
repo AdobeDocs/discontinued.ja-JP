@@ -30,22 +30,22 @@ Slack通知？ 10 月 30 日（Pt）
 
 | タスク | 説明 |
 | -----------| ---------- |
-| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
-| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
+| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ja) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ja) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
+| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ja) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ja#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
 
 **余分なスペースが 2 つ**
 
 | タスク | 説明 |
 | -----------| ---------- |
-| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
-| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
+| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ja) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ja) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
+| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ja) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ja#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
 
 **ヘッダーディバイダーの後の余分なスペースを除く**
 
 | タスク | 説明 |
 | -----------| ---------- |
-| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
-| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
+| [Analytics 用のExperience Cloud ID サービスの実装 &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ja) | Adobeでは、追加の [&#x200B; 顧客 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ja) を設定することもお勧めします。 これらの ID は各訪問者に関連付けられ、Experience Cloudの現在と将来の機能を有効にします。 |
+| 既存の `s_code` をバージョン H.27.3 以降に更新するか、既存の `AppMeasurement.js` をバージョン 1.4 以降に更新します。 | これらのファイルは、Analytics 管理ツールの [&#x200B; コードマネージャー &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ja) でダウンロードできます。 （[JavaScript実装 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ja#js) ガイドは、`AppMeasurement.js` について詳しくは利用可能です）。 |
 
 ## 相対リンク
 
