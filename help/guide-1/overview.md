@@ -2,7 +2,7 @@
 title: 廃止された  [!DNL Adobe Experience Cloud]  製品の概要
 description: ' [!DNL Adobe Experience Cloud]  および  [!DNL Adobe Experience Platform] の廃止、廃止、またはサポート終了製品の概要'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
+source-git-commit: eaa11af117d56f5d5ad875356b99c8e98737017e
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -53,3 +53,4 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >その他の製造中止になったアドビのアプリとサービスのリストについては、[無償製品と廃止された製品のサポートオプション](https://helpx.adobe.com/jp/support/programs/support-options-free-discontinued-apps-services.html)を参照してください。
+
