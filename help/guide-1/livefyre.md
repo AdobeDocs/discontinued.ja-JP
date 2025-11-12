@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Livefyre] のサービス終了'
 description: Livefyre および Livefyre Studio 向けの Livefyre のサービス終了のリマインダー。
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: b4cb8ec97301294acfb8e4d03dcf75441c175d2b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 93%
@@ -30,3 +30,4 @@ ht-degree: 93%
 ### **_詳細情報の問い合わせ先_**
 
 ご質問がある場合は、CSM （Customer Success Manager）または Shelly Chiang （`schiang@adobe.com`）にお問い合わせください。
+

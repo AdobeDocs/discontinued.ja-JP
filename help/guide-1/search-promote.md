@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Search&Promote] のサービス終了のお知らせ'
 description: 詳しくは、 [!DNL Adobe Search&Promote]  のサービス終了のお知らせを参照してください。
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### **_アドビには、サイト検索とコマース検索の代替オプションがありますか？_**
 
-はい。 製品およびコマース検索については、今後は[[!DNL Adobe Commerce] のライブ検索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ja)がアドビの検索アプリケーションとなります。
+はい。 製品およびコマース検索については、今後は[ [!DNL Adobe Commerce] のライブ検索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ja)がアドビの検索アプリケーションとなります。
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 

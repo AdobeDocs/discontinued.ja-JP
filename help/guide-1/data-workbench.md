@@ -1,11 +1,11 @@
 ---
-title: 「[!DNL Data Workbench] の提供終了」
+title: '[!DNL Data Workbench] の提供終了'
 description: このドキュメントでは、 [!DNL Data Workbench] の提供終了に関する FAQ について説明します。
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -42,3 +42,4 @@ Adobe Professional Services は、提供終了日まで購入できます。こ�
 ## 詳細はどこから入手できますか？
 
 この[提供終了のお知らせ](https://express.adobe.com/page/GSu6oKOD88GAj/)に関する詳細や質問については、組織のアドビ担当営業または販売店にお問い合わせください。
+

@@ -2,7 +2,7 @@
 description: Adobe Analytics Data Connectors 統合の廃止について説明します。
 title: Analytics Data Connectors 統合のサービス終了
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
@@ -28,3 +28,4 @@ Adobe パートナーの場合、Adobe Exchange プログラムへの統合の�
 Data Connector のお客様で、使用する統合の移行をリクエストする場合は、すべてのリクエストを統合パートナーに直接ルーティングしてください。パートナーは、新しい API への移行にコミットする必要があります。アドビカスタマーケアでは、パートナーに新しい API への移行を強制できません。統合を提供する各会社は、統合を Adobe Exchange に移行するか、統合を中止するかのオプションが示されました。
 
 ご質問やサポートについては、アドビカスタマーケアにお問い合わせください。
+

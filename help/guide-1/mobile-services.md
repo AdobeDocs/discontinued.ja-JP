@@ -2,7 +2,7 @@
 title: Adobe Mobile Services の提供終了に関する FAQ
 description: AdobeMobile Services の提供終了のお知らせに関するよくある質問への回答を得ます。
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 100%
@@ -44,3 +44,4 @@ Mobile Services の廃止後、すべての処理ルールロジックは、通�
 ## 質問がある場合は、どこに問い合わせればよいですか？
 
 詳しくは、[Adobe Mobile Services の提供終了の Spark Page](https://spark.adobe.com/page/C6D30y09zaRpD/) を参照してください。その他のご質問については、アドビ担当者にお問い合わせください。
+
