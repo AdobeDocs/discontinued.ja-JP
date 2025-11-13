@@ -54,7 +54,7 @@ ht-degree: 2%
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg)
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -63,7 +63,7 @@ ht-degree: 2%
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
