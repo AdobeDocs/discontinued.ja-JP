@@ -20,23 +20,23 @@ ht-degree: 1%
 
 ## 新しいタブで開く
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [同じタブで開く](auditor.md)
 
-[ 引用符で囲まれたスペースを含む新しいタブ ](auditor.md) {target="_blank"}
+[&#x200B; 引用符で囲まれたスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
 
-[ 引用符で囲まれたスペースのない新しいタブ ](auditor.md){target="_blank"}
+[&#x200B; 引用符で囲まれたスペースのない新しいタブ &#x200B;](auditor.md){target="_blank"}
 
-[ 引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
+[&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
 
-[ 引用符なしの新しいタブ ](auditor.md){target=_blank}
+[&#x200B; 引用符なしの新しいタブ &#x200B;](auditor.md){target=_blank}
 
-[ ディープリンクを含む新しいタブ ](commerce-channels.md#channel-manager-extension){target="_blank"}
+[&#x200B; ディープリンクを含む新しいタブ &#x200B;](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[ 外部リンクを含む新しいタブ ](https://www.adobe.com){target="_blank"}
+[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com){target="_blank"}
 
-[ 新しいタブのルートリンク ](/help/guide-1/auditor.md){target="_blank"}
+[&#x200B; 新しいタブのルートリンク &#x200B;](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
@@ -110,7 +110,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg)
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -119,7 +119,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
