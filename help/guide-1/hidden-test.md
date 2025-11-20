@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
+source-git-commit: ba551c3fc7714cce505ba95fe83e8608381d1f2c
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
 
@@ -20,23 +20,25 @@ ht-degree: 1%
 
 ## 新しいタブで開く
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [同じタブで開く](auditor.md)
 
-[&#x200B; 引用符で囲まれたスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
+[ 引用符で囲まれたスペースを含む新しいタブ ](auditor.md) {target="_blank"}
 
-[&#x200B; 引用符で囲まれたスペースのない新しいタブ &#x200B;](auditor.md){target="_blank"}
+[アンカー付きの新しいタブ](auditor.md#_blank)
 
-[&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
+[ 引用符で囲まれたスペースのない新しいタブ ](auditor.md){target="_blank"}
 
-[&#x200B; 引用符なしの新しいタブ &#x200B;](auditor.md){target=_blank}
+[ 引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
 
-[&#x200B; ディープリンクを含む新しいタブ &#x200B;](commerce-channels.md#channel-manager-extension){target="_blank"}
+[ 引用符なしの新しいタブ ](auditor.md){target=_blank}
 
-[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com){target="_blank"}
+[ ディープリンクを含む新しいタブ ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[&#x200B; 新しいタブのルートリンク &#x200B;](/help/guide-1/auditor.md){target="_blank"}
+[ 外部リンクを含む新しいタブ ](https://www.adobe.com){target="_blank"}
+
+[ 新しいタブのルートリンク ](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
@@ -80,15 +82,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### プレーンビデオ トランスクリプトなし – metadata.md が流れ落ちるので、トランスクリプトを表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### トランスクリプトを true に設定した場合
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### トランスクリプトが false に設定されている場合 – ビデオトランスクリプトは表示されません
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 相対リンク
 
@@ -110,7 +112,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -119,7 +121,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
