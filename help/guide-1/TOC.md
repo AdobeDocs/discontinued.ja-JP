@@ -27,4 +27,4 @@ ht-degree: 69%
 + [Adobe Commerceのストアフルフィルメント](commerce-store-fulfillment.md)
 + [非表示のテスト](hidden-test.md)
 + [隠しファイル 1](hidden-section-1.md)
-+ [ 隠しファイル 2](hidden-section-2.md){target="_blank"}
++ [&#x200B; 隠しファイル 2](hidden-section-2.md){target="_blank"}
