@@ -2,16 +2,16 @@
 description: Adobe Analytics Data Connectors 統合の廃止について説明します。
 title: Analytics Data Connectors 統合のサービス終了
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Adobe Data Connectors 統合のサービス終了
 
-**2021年8月19日（PT）**&#x200B;より、アドビは Data Connectors の統合を廃止し、[Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) に置き換えました。アドビでは、お客様とパートナーに対して、可能な限りシームレスに移行を行うことを目指しています。
+**2021年8月19日（PT）**&#x200B;より、アドビは Data Connectors の統合を廃止し、[Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) に置き換えました。アドビでは、お客様とパートナーに対して、可能な限りシームレスに移行を行うことを目指しています。
 
 Adobe Analytics では、お客様のニーズを満たすクラス最高の web およびマーケティング分析の提供を目指しています。テクノロジーとビジネスのニーズが進化するにつれて、アドビでは最高の標準を提供し、満たすよう継続的に努めています。Data Connectors の統合の原動力となる API は、これらの標準を満たさなくなり、アドビの最新のテクノロジーインフラストラクチャでは維持することができません。
 
@@ -19,7 +19,7 @@ Adobe Analytics では、お客様のニーズを満たすクラス最高の web
 
 ## アドビがこの機能のサービスを終了した理由？
 
-この機能は、実行またはサポートされなくなったレガシーテクノロジーを利用していました。アドビのソリューションに対する最新の統合は、[Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) で見つけることができます。
+この機能は、実行またはサポートされなくなったレガシーテクノロジーを利用していました。アドビのソリューションに対する最新の統合は、[Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) で見つけることができます。
 
 ## この機能を削除する影響？
 

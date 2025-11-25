@@ -2,10 +2,10 @@
 title: Adobe Mobile Services の提供終了に関する FAQ
 description: AdobeMobile Services の提供終了のお知らせに関するよくある質問への回答を得ます。
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +19,7 @@ Mobile Services は、2022年12月31日（PT）に提供終了となりました
 
 ## 対象となるものと、ならないものは何でしょうか？
 
-この提供終了には、[mobilemarketing.adobe.com](https://mobilemarketing.adobe.com) のスタンドアロンプラットフォームである Adobe Mobile Services のみが含まれます。このインターフェイスに依存する Mobile バージョン 4 SDK は、2021年8月31日（PT）に廃止されました。
+この提供終了には、`mobilemarketing.adobe.com` のスタンドアロンプラットフォームであるAdobe Mobile Services のみが含まれます。 このインターフェイスに依存する Mobile バージョン 4 SDK は、2021年8月31日（PT）に廃止されました。
 
 この提供終了には、Adobe Experience Platform Mobile SDK の一部であるモバイルアプリ用の Adobe Analytics は含まれません。アプリ内動作、ライフサイクル分析、メッセージングインタラクショントラッキング、オーディエンスプロファイルなど、これらの機能は、引き続きアドビからサポートを受けることができます。
 
