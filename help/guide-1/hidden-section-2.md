@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test Analytics
 landing-page-name: analytics
-source-git-commit: 8856ccadd66b40c682be08e8faa274c00d459e06
+source-git-commit: aed53029027389bf0494166cd7c32d5145cd7251
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 0%
@@ -14,12 +14,14 @@ ht-degree: 0%
 
 # 非表示セクション テスト 2
 
-隠されたテスト 2 11 月 24 日
+非表示のテスト 2
+
+11 月 24 日（Pt）
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}

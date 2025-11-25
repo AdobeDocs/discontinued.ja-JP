@@ -4,7 +4,7 @@ description: これは隠されたテスト 1 です
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
+source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -12,7 +12,6 @@ ht-degree: 0%
 ---
 
 # 非表示セクション テスト 1
-
 
 2025 年 11 月 24 日（Pt）
 
@@ -52,8 +51,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
