@@ -2,7 +2,7 @@
 user-guide-title: ' [!DNL Adobe Experience Cloud] の廃止された製品'
 breadcrumb-title: 廃止された製品
 user-guide-description: 生産中止品の一覧  [!DNL Adobe Experience Cloud]
-source-git-commit: 432b1722d3a7ddb7686515f65605ad7ca3522f7e
+source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 78%
@@ -26,4 +26,4 @@ ht-degree: 78%
 + [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
 + [Adobe Commerce のストアフルフィルメント](commerce-store-fulfillment.md)
-+ [隠されたテスト – ボブ](hidden-test.md)
++ [非表示のテスト - 1 月](hidden-test.md)
