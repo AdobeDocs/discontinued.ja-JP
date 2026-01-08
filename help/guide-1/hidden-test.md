@@ -7,16 +7,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # 非表示のテスト
 
-12 月 2 日（Pt）
+1 月 8 日（Pt）
 
 これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 [&#x200B; ディープリンクを使用した新しいタブのアンカー &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com){target="_blank"}
+[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com/jp){target="_blank"}
 
 [&#x200B; 新しいタブのルートリンク &#x200B;](/help/guide-1/auditor.md){target="_blank"}
 
@@ -51,12 +51,12 @@ ht-degree: 0%
     <th>引用符なし</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Adobeの新しいタブ</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Adobeの新しいタブ</td>
+    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの新しいタブ</a></td>
+    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの新しいタブ</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe：新しいタブなし</a></td>
-    <td><a href="https://www.adobe.com">Adobe：新しいタブなし</td>
+    <td><a href="https://www.adobe.com/jp">Adobe：新しいタブなし</a></td>
+    <td><a href="https://www.adobe.com/jp">Adobe：新しいタブなし</td>
   </tr>
 </table>
 
@@ -73,7 +73,7 @@ Second new line. -->
 
 以下にコメントします。 この記事で最後に表示される場合は、コメント構文が原因です。
 
-1. **[!UICONTROL 作成]** をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
 <!-- ## Create an exclusion using Advanced Search
 
