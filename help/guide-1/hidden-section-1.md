@@ -4,16 +4,17 @@ description: これは隠されたテスト 1 です
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 # 非表示セクション テスト 1
 
-2025 年 11 月 24 日（Pt）
+2026 年 2 月 3 日（Pt）
 
 1. ここに移動
 
@@ -26,7 +27,7 @@ Second new line. -->
 
 以下にコメントします。 この記事で最後に表示される場合は、コメント構文が原因です。
 
-1. **[!UICONTROL 作成]** をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
 <!-- ## Create an exclusion using Advanced Search
 
@@ -51,8 +52,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
