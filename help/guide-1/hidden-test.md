@@ -8,9 +8,9 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
+source-git-commit: f38dd5701562d9e51256c50f766c7b03f253f279
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '224'
 ht-degree: 6%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 6%
 # 非表示のテスト
 
 2026 年 2 月 2 日～`hold: true` 日。 ああ、そうなんだ！
+2026 年 2 月 3 日（PT） – マット
 
 これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
 
