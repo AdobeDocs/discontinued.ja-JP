@@ -6,17 +6,18 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 6%
 
 ---
 
 # 非表示のテスト
 
-1 月 26 日 – ボブ
+2026 年 2 月 2 日～`hold: true` 日。 ああ、そうなんだ！
 
 これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
 
@@ -150,4 +151,3 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 -->
 
 Bob：トピックが見つかったら、スライドのコメントを削除します。
-
