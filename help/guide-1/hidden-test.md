@@ -8,43 +8,42 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f38dd5701562d9e51256c50f766c7b03f253f279
+source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '216'
 ht-degree: 6%
 
 ---
 
 # 非表示のテスト
 
-2026 年 2 月 2 日～`hold: true` 日。 ああ、そうなんだ！
-2026 年 2 月 3 日（PT） – マット
+2026 年 2 月 4 日～`hold: true` 日。
 
 これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
 
 ## 新しいタブで開く {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [同じタブで開く](auditor.md)
 
-[&#x200B; 引用符で囲まれたスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
+[ 引用符で囲まれたスペースを含む新しいタブ ](auditor.md) {target="_blank"}
 
-[&#x200B; アンカー付きの新しいタブ &#x200B;](auditor.md){target=_blank}
+[ アンカー付きの新しいタブ ](auditor.md){target=&quot;_blank}
 
-[&#x200B; 引用符で囲まれたスペースのない新しいタブ &#x200B;](auditor.md){target="_blank"}
+[ 引用符で囲まれたスペースのない新しいタブ ](auditor.md){target="_blank"}
 
-[&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
+[ 引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
 
-[&#x200B; 引用符なしの新しいタブ &#x200B;](auditor.md){target=_blank}
+[ 引用符なしの新しいタブ ](auditor.md){target=_blank}
 
-[&#x200B; ディープリンクを含む新しいタブ &#x200B;](commerce-channels.md#channel-manager-extension){target="_blank"}
+[ ディープリンクを含む新しいタブ ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[&#x200B; ディープリンクを使用した新しいタブのアンカー &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[ ディープリンクを使用した新しいタブのアンカー ](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com/jp){target="_blank"}
+[ 外部リンクを含む新しいタブ ](https://www.adobe.com/jp){target="_blank"}
 
-[&#x200B; 新しいタブのルートリンク &#x200B;](/help/guide-1/auditor.md){target="_blank"}
+[ 新しいタブのルートリンク ](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
@@ -95,15 +94,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### プレーンビデオ トランスクリプトなし – metadata.md が流れ落ちるので、トランスクリプトを表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### トランスクリプトを true に設定した場合
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### トランスクリプトが false に設定されている場合 – ビデオトランスクリプトは表示されません
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 相対リンク
 
@@ -125,7 +124,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![ 代替テキスト ](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -134,7 +133,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
