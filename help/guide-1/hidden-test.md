@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 6%
+source-wordcount: '238'
+ht-degree: 7%
 
 ---
 
 # 非表示のテスト
 
-2026 年 2 月 4 日～`hold: true` 日。
+2026 年 3 月 4 日～`hold: true` 日。
+
 新しいキーのテスト
 
 2 月 11 日：保留のテスト。
@@ -34,19 +35,19 @@ ht-degree: 6%
 
 [&#x200B; アンカー付きの新しいタブ &#x200B;](auditor.md){target=_blank}
 
-[&#x200B; 引用符で囲まれたスペースのない新しいタブ &#x200B;](auditor.md){target="_blank"}
+[引用符で囲まれたスペースのない新しいタブ](auditor.md){target="_blank"}
 
 [&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
 
-[&#x200B; 引用符なしの新しいタブ &#x200B;](auditor.md){target=_blank}
+[引用符のない新しいタブ](auditor.md){target=_blank}
 
-[&#x200B; ディープリンクを含む新しいタブ &#x200B;](commerce-channels.md#channel-manager-extension){target="_blank"}
+[ディープリンクを含む新しいタブ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[&#x200B; ディープリンクを使用した新しいタブのアンカー &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[ディープリンクを使用した新しいタブのアンカー](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[&#x200B; 外部リンクを含む新しいタブ &#x200B;](https://www.adobe.com/jp){target="_blank"}
+[外部リンクを含む新しいタブ](https://www.adobe.com/jp){target="_blank"}
 
-[&#x200B; 新しいタブのルートリンク &#x200B;](/help/guide-1/auditor.md){target="_blank"}
+[新しいタブのルートリンク](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
