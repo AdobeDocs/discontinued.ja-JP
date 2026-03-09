@@ -26,5 +26,5 @@ ht-degree: 64%
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Adobe Commerce のストアフルフィルメント](/help/guide-1/commerce-store-fulfillment.md)
-+ [hide-from-toc 非表示のテスト - 2 月 &#x200B;](/help/guide-1/hidden-test.md)
-+ [hide-from-toc 非表示のテスト – 新規 &#x200B;](hidden-section-1.md)
++ {hide-from-toc}[ 非表示のテスト - 2 月 ](/help/guide-1/hidden-test.md)
++ {hide-from-toc}[ 非表示のテスト – 新規 ](hidden-section-1.md)
