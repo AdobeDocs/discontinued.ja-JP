@@ -8,7 +8,7 @@ landing-page-name: analytics
 source-git-commit: aed53029027389bf0494166cd7c32d5145cd7251
 workflow-type: tm+mt
 source-wordcount: '23'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 非表示のテスト 2
 
-11 月 24 日（Pt）
+24 年 11 月
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
