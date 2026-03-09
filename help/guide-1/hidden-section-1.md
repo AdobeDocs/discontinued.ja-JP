@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 89758ac0005261dbe337b88dbce4eae9edaedd1f
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # 非表示セクション テスト 1
 
-2026 年 2 月 26 日（Pt）
+2026 年 3 月 9 日（Pt）
 
 1. ここに移動
 
@@ -52,8 +52,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
