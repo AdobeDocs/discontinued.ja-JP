@@ -3,16 +3,16 @@ title: 非表示のセクション 1 テスト
 description: これは隠されたテスト 1 です
 auto-video-transcripts: false
 hide: true
-source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
+source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 # 非表示セクション テスト 1
 
-2026 年 3 月 9 日（Pt）
+2026 年 3 月 10 日（PT） – この記事は No `hold: true`
 
 1. ここに移動
 
@@ -50,8 +50,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
