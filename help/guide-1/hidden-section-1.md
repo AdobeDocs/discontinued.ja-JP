@@ -3,16 +3,16 @@ title: 非表示のセクション 1 テスト
 description: これは隠されたテスト 1 です
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
 # 非表示セクション テスト 1
 
-2026 年 3 月 10 日（PT） – この記事は No `hold: true`
+2026 年 3 月 10 日（PT）, 9:25 – この記事は `hold: true` 載されていません
 
 1. ここに移動
 
