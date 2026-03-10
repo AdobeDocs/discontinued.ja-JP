@@ -96,15 +96,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### プレーンビデオ トランスクリプトなし – metadata.md が流れ落ちるので、トランスクリプトを表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
 
 ### トランスクリプトを true に設定した場合
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
 
 ### トランスクリプトが false に設定されている場合 – ビデオトランスクリプトは表示されません
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
 
 ## 相対リンク
 
