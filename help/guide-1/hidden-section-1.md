@@ -54,8 +54,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## No transcript
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
 
 ## Transcript true
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
