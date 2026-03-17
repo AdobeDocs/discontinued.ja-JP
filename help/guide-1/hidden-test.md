@@ -23,17 +23,17 @@ ht-degree: 8%
 
 ## 新しいタブで開く {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [同じタブで開く](auditor.md)
 
-[ 引用符で囲まれたスペースを含む新しいタブ ](auditor.md) {target="_blank"}
+[&#x200B; 引用符で囲まれたスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
 
-[ アンカー付きの新しいタブ ](auditor.md){target=&quot;_blank}
+[&#x200B; アンカー付きの新しいタブ &#x200B;](auditor.md){target=_blank}
 
 [引用符で囲まれたスペースのない新しいタブ](auditor.md){target="_blank"}
 
-[ 引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
+[&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
 
 [引用符のない新しいタブ](auditor.md){target=_blank}
 
@@ -128,7 +128,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg)
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
 
 
 はいホバーテキスト
@@ -137,7 +137,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![ 代替テキスト ](assets/maui-flip.jpg " ホバーテキスト ")
+![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
 
 ## スライド
 
