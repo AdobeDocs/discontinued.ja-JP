@@ -2,7 +2,7 @@
 title: Adobe Commerce 用チャネル
 description: Amazon Sales Channel および Adobe Commerce 用チャネルマネージャー拡張機能の提供終了のタイミングについて説明します。
 exl-id: 40ff120b-4f37-4ef6-a3ad-e7ee67dd3e23
-source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
@@ -28,4 +28,3 @@ ht-degree: 100%
 アドビは、2024年7月1日（PT）に、チャネルマネージャー拡張機能およびそれに付随する Walmart Marketplace との統合を廃止しました。 Adobe Commerce Marketplace からはチャネルマネージャー拡張機能を入手できなくなりました。
 
 代替ソリューションについて、アドビでは、[Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) で使用可能なパートナーソリューションとサードパーティ拡張機能を調べて、ニーズに最適なソリューションを見つけることをお勧めします。
-
