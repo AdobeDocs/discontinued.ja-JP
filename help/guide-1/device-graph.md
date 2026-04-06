@@ -2,7 +2,7 @@
 keywords: Device-graph;end-of-life
 title: デバイスグラフ
 description: デバイスグラフの提供終了プランについて説明します。
-source-git-commit: bb33d25c2f7f7fa7a3d133c9f9b7c89387ff78e4
+source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
@@ -34,3 +34,4 @@ ht-degree: 4%
 * 従来のAnalytics IDはサポートされていません。 Experience Cloud IDを持つ訪問者のみがステッチされます。
 * 組織でプライベートグラフを使用している場合、新しいデバイスのステッチに最大24時間かかります。
 * 3rd パーティのデバイスグラフはサポートされていません。
+
