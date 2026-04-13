@@ -41,7 +41,7 @@ ht-degree: 7%
 
 [ディープリンク付きの新しいタブ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[ディープリンク付きの新しいタブの固定](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[ディープリンク付きの新しいタブの固定](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [外部リンク付きの新しいタブ](https://www.adobe.com/jp){target="_blank"}
 
