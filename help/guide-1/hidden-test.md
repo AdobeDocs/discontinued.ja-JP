@@ -1,69 +1,71 @@
 ---
 title: 非表示のテスト
-description: これは隠されたテストです
+description: これは隠れたテストです
 hide: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
+source-git-commit: c12654fbc3d13ff53fd5daf3ba5ba2978c3922ca
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 8%
+source-wordcount: '240'
+ht-degree: 7%
 
 ---
 
 # 非表示のテスト
 
-2026 年 3 月 17 日（PT） – `hold: true` は終了します。
+2026年3月17日 – `hold: true`はオフです。
+
+2026年4月13日 – マットがテスト中
 
 新しいキーのテスト
 
-これは隠されたテストです。 v2 レンダリングで正常に動作することを確認するために、この `[` を追加します。
+これは隠れたテストです。 この`[`を追加して、v2 レンダリングで正常に動作することを確認します。
 
 ## 新しいタブで開く {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [同じタブで開く](auditor.md)
 
-[&#x200B; 引用符で囲まれたスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
+[引用符で囲んだスペースを含む新しいタブ ](auditor.md) {target="_blank"}
 
-[&#x200B; アンカー付きの新しいタブ &#x200B;](auditor.md){target=_blank}
+[ アンカー付きの新しいタブ ](auditor.md){target=&quot;_blank}
 
-[引用符で囲まれたスペースのない新しいタブ](auditor.md){target="_blank"}
+[引用符で囲まれた新しいタブ](auditor.md){target="_blank"}
 
-[&#x200B; 引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
+[引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
 
 [引用符のない新しいタブ](auditor.md){target=_blank}
 
-[ディープリンクを含む新しいタブ](commerce-channels.md#channel-manager-extension){target="_blank"}
+[ディープリンク付きの新しいタブ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[ディープリンクを使用した新しいタブのアンカー](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[ディープリンク付きの新しいタブの固定](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[外部リンクを含む新しいタブ](https://www.adobe.com/jp){target="_blank"}
+[外部リンク付きの新しいタブ](https://www.adobe.com/jp){target="_blank"}
 
-[新しいタブのルートリンク](/help/guide-1/auditor.md){target="_blank"}
+[新しいタブルートリンク](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
   <tr>
-    <th>引用符付き</a></th>
+    <th>引用符で囲む</a></th>
     <th>引用符なし</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの新しいタブ</a></td>
-    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの新しいタブ</td>
+    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの「新規」タブ</a></td>
+    <td><a href="https://www.adobe.com/jp" target="_blank">Adobeの「新規」タブ</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com/jp">Adobe：新しいタブなし</a></td>
-    <td><a href="https://www.adobe.com/jp">Adobe：新しいタブなし</td>
+    <td><a href="https://www.adobe.com/jp">Adobeの「新しいタブなし」</a></td>
+    <td><a href="https://www.adobe.com/jp">Adobeの「新しいタブなし」</td>
   </tr>
 </table>
 
-## テストをコメント
+## コメントテスト
 
-2025 年 11 月 18 日（Pt）
+2025年11月18日（PT）
 
 <!-- 
 ## Comment with basic text
@@ -74,7 +76,7 @@ Second new line.
 -->
 
 
-以下にコメントします。 この記事で最後に表示される場合は、コメント構文が原因です。
+以下にコメントしてください。 この記事で最後に見られるのは、コメント構文によるものです。
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
@@ -96,48 +98,48 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## ビデオテスト
 
-### プレーンビデオ トランスクリプトなし – metadata.md が流れ落ちるので、トランスクリプトを表示します。
+### 平易な動画が文字起こしなし – metadata.mdがトリクルダウンするので、文字起こしを表示する必要があります
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
-### トランスクリプトを true に設定した場合
+### 文字起こしをtrueに設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
-### トランスクリプトが false に設定されている場合 – ビデオトランスクリプトは表示されません
+### 文字起こしをfalseに設定すると、ビデオの文字起こしが表示されない
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 相対リンク
 
 * [概要](overview.md)
-* [検索と昇格](search-promote.md)
+* [検索して宣伝](search-promote.md)
 * [Social](social.md)
 
 ## 明示的なディープリンク
 
-[概要の追加（ルート）](/help/guide-1/overview.md#additional-products)
+[概要追加（ルート）](/help/guide-1/overview.md#additional-products)
 
-[概要の追加](overview.md#additional-products)
+[概要その他](overview.md#additional-products)
 
-## ホバーテキスト テスト {#this-is-a-heading-anchor}
+## テキストのホバーテスト {#this-is-a-heading-anchor}
 
-ホバーテキストなし
+テキストにカーソルを合わせる
 
 ```
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg)
+![alt text](assets/maui-flip.jpg)
 
 
-はいホバーテキスト
+はいテキストにカーソルを合わせる
 
 ```
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![&#x200B; 代替テキスト &#x200B;](assets/maui-flip.jpg " ホバーテキスト ")
+![代替テキスト ](assets/maui-flip.jpg " テキストにカーソルを合わせる")
 
 ## スライド
 
@@ -148,10 +150,10 @@ After creating a search using "id > contains," for example, you can then click [
 https://experienceleague-stage.adobe.com/en/slides/analyze-project
 ```
 
-レンダリング：
+レンダリングされました：
 
 <!--
 >[!SLIDE](analyze-project)
 -->
 
-Bob：トピックが見つかったら、スライドのコメントを削除します。
+Bob: トピックのロックをテストしたら、スライドコメントを削除します。
