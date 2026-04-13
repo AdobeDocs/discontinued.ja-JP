@@ -100,15 +100,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### 平易な動画が文字起こしなし – metadata.mdがトリクルダウンするので、文字起こしを表示する必要があります
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
 
 ### 文字起こしをtrueに設定
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
 
 ### 文字起こしをfalseに設定すると、ビデオの文字起こしが表示されない
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
 
 ## 相対リンク
 
