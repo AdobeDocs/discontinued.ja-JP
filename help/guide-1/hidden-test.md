@@ -6,15 +6,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c12654fbc3d13ff53fd5daf3ba5ba2978c3922ca
+source-git-commit: ceebd933f2db110d06a6ef0c1223b6f1aba704d8
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 7%
 
 ---
 
 # 非表示のテスト
 
+2026年4月24日（PT）
 2026年3月17日 – `hold: true`はオフです。
 
 2026年4月13日 – マットがテスト中
@@ -25,23 +26,23 @@ ht-degree: 7%
 
 ## 新しいタブで開く {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [同じタブで開く](auditor.md)
 
-[引用符で囲んだスペースを含む新しいタブ &#x200B;](auditor.md){target="_blank"} 
+[引用符で囲んだスペースを含む新しいタブ ](auditor.md) {target="_blank"}
 
-[&#x200B; アンカー付きの新しいタブ &#x200B;](auditor.md){target=_blank}
+[ アンカー付きの新しいタブ ](auditor.md){target=&quot;_blank}
 
 [引用符で囲まれた新しいタブ](auditor.md){target="_blank"}
 
-[引用符のないスペースを含む新しいタブ &#x200B;](auditor.md){target=_blank} 
+[引用符のないスペースを含む新しいタブ ](auditor.md) {target=_blank}
 
 [引用符のない新しいタブ](auditor.md){target=_blank}
 
 [ディープリンク付きの新しいタブ](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[ディープリンク付きの新しいタブの固定](https://experienceleague.adobe.com/ja/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[ディープリンク付きの新しいタブの固定](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [外部リンク付きの新しいタブ](https://www.adobe.com/jp){target="_blank"}
 
@@ -100,15 +101,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### 平易な動画が文字起こしなし – metadata.mdがトリクルダウンするので、文字起こしを表示する必要があります
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### 文字起こしをtrueに設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### 文字起こしをfalseに設定すると、ビデオの文字起こしが表示されない
 
->[!VIDEO](https://video.tv.adobe.com/v/3409660?captions=jpn&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 相対リンク
 
@@ -139,7 +140,7 @@ After creating a search using "id > contains," for example, you can then click [
 ![alt text](assets/maui-flip.jpg "Hover text")
 ```
 
-![代替テキスト &#x200B;](assets/maui-flip.jpg " テキストにカーソルを合わせる")
+![代替テキスト ](assets/maui-flip.jpg " テキストにカーソルを合わせる")
 
 ## スライド
 
