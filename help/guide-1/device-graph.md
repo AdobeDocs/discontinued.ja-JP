@@ -2,7 +2,7 @@
 keywords: Device-graph;end-of-life
 title: デバイスグラフ
 description: デバイスグラフの提供終了プランについて説明します。
-source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
+source-git-commit: 972d090153630545e18ca192f64dfb198044d8ee
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 >[!WARNING]
 >
->クロスデバイス分析内のデバイスグラフは、**2025年12月31日**&#x200B;をもって使用できなくなりました。 現在のデバイスグラフで有効になっている仮想レポートスイートを[&#x200B; フィールドベースのメソッド &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/components/cda/field-based-stitching)に切り替えてください。
+>クロスデバイス分析内のデバイスグラフは、**2025年12月31日**&#x200B;をもって使用できなくなりました。 現在のデバイスグラフで有効になっている仮想レポートスイートを[ フィールドベースのメソッド ](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching)に切り替えてください。
 
 クロスデバイス分析では、プライベートグラフを使ってデータをつなぎ合わせました。 プライベートグラフは、組織に固有のハッシュ化されたデバイス IDのリポジトリです。 CDAは、デバイスグラフと定期的に通信してデバイスをリンクさせます。
 
@@ -25,9 +25,9 @@ ht-degree: 4%
 >
 >すべての前提条件を満たせない場合、クロスデバイス分析を有効にできないか、データを結合する際に結果が悪くなる可能性があります。
 
-* お客様の組織では、[Adobe Experience Platform Identity Service Private Graph](https://business.adobe.com/jp/products/experience-platform/identity-service.html)を使用する必要があります。 Identity Service ユーザーガイドの[&#x200B; ホームページ &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ja)も参照してください。
-* 実装では、最新バージョンのExperience Cloud ID サービス（ECID）を使用する必要があります。 ID サービスユーザーガイドの[&#x200B; ホームページ &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)を参照してください。 Adobe Experience Platformで[&#x200B; タグ &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja)を使用しているほとんどの実装では、既にID サービスがデプロイされている可能性があります。
-* ユーザーがログインしたり、メールを開いたときなど、個人を識別できる場合は、実装で`setCustomerIDs`関数（またはSDK相当）を呼び出す必要があります。 この要件は、使用される場合、モバイルアプリを含むすべてのプラットフォームに適用されます。 ID サービスユーザーガイドの[`setCustomerIDs`](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ja)を参照してください。
+* お客様の組織では、[Adobe Experience Platform Identity Service Private Graph](https://business.adobe.com/products/experience-platform/identity-service.html)を使用する必要があります。 Identity Service ユーザーガイドの[ ホームページ ](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html)も参照してください。
+* 実装では、最新バージョンのExperience Cloud ID サービス（ECID）を使用する必要があります。 ID サービスユーザーガイドの[ ホームページ ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)を参照してください。 Adobe Experience Platformで[ タグ ](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja)を使用しているほとんどの実装では、既にID サービスがデプロイされている可能性があります。
+* ユーザーがログインしたり、メールを開いたときなど、個人を識別できる場合は、実装で`setCustomerIDs`関数（またはSDK相当）を呼び出す必要があります。 この要件は、使用される場合、モバイルアプリを含むすべてのプラットフォームに適用されます。 ID サービスユーザーガイドの[`setCustomerIDs`](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)を参照してください。
 
 ## デバイスグラフに固有の制限
 
