@@ -1,11 +1,11 @@
 ---
-user-guide-title: Adobe Experience Cloudの廃止された製品
+user-guide-title: CX Enterpriseの提供終了した製品
 breadcrumb-title: 廃止された製品
-user-guide-description: ' [!DNL Adobe Experience Cloud]の廃止された製品の一覧'
-source-git-commit: 2406787e294816a812f4eaa97a3a7ba43b26c6a0
+user-guide-description: CX Enterprise向けの廃止された製品のリスト
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 61%
+source-wordcount: '56'
+ht-degree: 62%
 
 ---
 
@@ -21,11 +21,9 @@ ht-degree: 61%
 + [Experience Cloud ライブラリ](/help/guide-1/experience-cloud-library.md)
 + [Experience Platform Auditor](/help/guide-1/auditor.md)
 + [Livefyre](/help/guide-1/livefyre.md)
++ [Media SDK（1.xおよび2.x）](media-sdk.md)
 + [Mobile Services](/help/guide-1/mobile-services.md)
 + [Reports &amp; Analytics](/help/guide-1/reports-and-analytics.md)
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Adobe Commerce のストアフルフィルメント](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc}[非表示テスト - 2月](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[非表示セクション 1](hidden-section-1.md)
-+ {hide-from-toc}[非表示セクション - 2](/help/guide-1/hidden-section-2.md)

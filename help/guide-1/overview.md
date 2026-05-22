@@ -1,15 +1,15 @@
 ---
-title: 廃止された  [!DNL Adobe Experience Cloud]  製品の概要
-description: ' [!DNL Adobe Experience Cloud]  および  [!DNL Adobe Experience Platform] の廃止、廃止、またはサポート終了製品の概要'
+title: 廃止されたCX エンタープライズ製品の概要
+description: CX Enterpriseの廃止、廃止、または提供終了の製品の概要
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 80%
 
 ---
 
-# 廃止された Adobe Experience Cloud 製品の概要
+# 廃止されたAdobe CX Enterprise製品の概要
 
 アドビは、市場の状況の変化や顧客への影響の結果として、製品やテクノロジーの販売、開発、サポートを中止することがあります。
 
@@ -23,6 +23,7 @@ ht-degree: 100%
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
+* [[!DNL Media SDK] （1.xおよび2.x）](media-sdk.md)
 * [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
@@ -31,9 +32,6 @@ ht-degree: 100%
 
 <!--
 ## Notifications of upcoming products to be discontinued
-
-* [!DNL Data Workbench] end-of-life date is **December 31, 2023**. [Link]
-
 -->
 
 ## リブランディングした製品のリスト
@@ -45,6 +43,7 @@ ht-degree: 100%
 * *[!DNL XML Documentation for Adobe Experience Manager]* は *[!DNL Adobe Experience Manager Guides]* になりました。
 * *[!DNL Captivate Prime]* は *[!DNL Adobe Learning Manager]* になりました。
 * *[!DNL Bizible]* は *[!DNL Marketo Measure]* になりました。
+* *[!DNL Primetime]* は *[!DNL Adobe Pass]* になりました。
 
 ## その他の廃止された製品 {#additional-products}
 
