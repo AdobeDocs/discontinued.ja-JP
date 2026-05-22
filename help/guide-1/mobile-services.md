@@ -2,10 +2,10 @@
 title: Adobe Mobile Services の提供終了に関する FAQ
 description: AdobeMobile Services の提供終了のお知らせに関するよくある質問への回答を得ます。
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 97%
+source-wordcount: '449'
+ht-degree: 90%
 
 ---
 
@@ -19,13 +19,13 @@ Mobile Services は、2022年12月31日（PT）に提供終了となりました
 
 ## 対象となるものと、ならないものは何でしょうか？
 
-この提供終了には、`mobilemarketing.adobe.com` のスタンドアロンプラットフォームであるAdobe Mobile Services のみが含まれます。 このインターフェイスに依存する Mobile バージョン 4 SDK は、2021年8月31日（PT）に廃止されました。
+この提供終了には、`mobilemarketing.adobe.com`のスタンドアロンプラットフォームであるAdobe Mobile Servicesのみが含まれます。 このインターフェイスに依存する Mobile バージョン 4 SDK は、2021年8月31日（PT）に廃止されました。
 
 この提供終了には、Adobe Experience Platform Mobile SDK の一部であるモバイルアプリ用の Adobe Analytics は含まれません。 アプリ内動作、ライフサイクル分析、メッセージングインタラクショントラッキング、オーディエンスプロファイルなど、これらの機能は、引き続きアドビからサポートを受けることができます。
 
 ## 機能を廃止するのはなぜですか？
 
-アドビがモバイルマーケティング機能を拡張し続けるにつれて、Mobile Services で以前に使用可能だった機能は、Adobe Experience Cloud ソリューションでリリースするか、Adobe Exchange プレミアパートナーを通じて提供する予定です。 この移行により、より強力で柔軟なモバイルマーケティング機能を提供します。
+Adobeがモバイルマーケティング能力の拡大を続ける中、これまでMobile Servicesで利用していた機能は、CX Enterprise ソリューションでリリースされるか、Adobe Exchange Premier Partnersで提供される予定です。 この移行により、より強力で柔軟なモバイルマーケティング機能を提供します。
 
 ## Mobile Services で作成した既存の処理ルールはどうなりますか？
 

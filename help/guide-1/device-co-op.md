@@ -1,18 +1,18 @@
 ---
-keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;提供終了
+keywords: デバイス コープ；デバイス コープ；提供終了
 title: '[!DNL Device Co-op] のサービス終了に関する FAQ'
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '1216'
-ht-degree: 88%
+source-wordcount: '1215'
+ht-degree: 95%
 
 ---
 
 # [!DNL Device Co-op] のサービス終了に関する FAQ
 
-このドキュメントでは、[!DNL Adobe Experience Cloud Device Co-op] のサービス終了（EOL）予定に関するよくある質問に回答しています。 この計画が実施されると、アドビは、[Experience Cloud リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品アップデート](https://www.adobe.com/jp/subscription/priority-product-update.html)の詳細な通知を送ります。
+このドキュメントでは、CX Enterprise Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 この計画が有効になると、Adobeは[CX Enterprise Central リリースノート ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)に詳細な通知を提供します。
 
 [!DNL Device Co-op] は、最高水準のプライバシーと透明性を確保しながら、参加企業が連携して複数のデジタルタッチポイントの中の消費者をより正確に識別できるようにするプログラムです。
 
@@ -22,11 +22,11 @@ ht-degree: 88%
 
 ## [!DNL Device Co-op] が非推奨になる理由
 
-AdTech 環境における今後の変更により、[!DNL Device Co-op] は今後古いソリューションになると予想されています。[!DNL Device Co-op] は、ほとんどがサードパーティ cookie で構成 [!DNL Google's] れており、2022 年までに [!DNL Google Chrome] でサードパーティ cookie をブロックするという発表があると、[!DNL Device Co-op] の有効性が低下します。[!DNL Chrome] には、ブラウザー市場シェアの約 65% があり、その他の主要なブラウザーは既にサードパーティ cookie のブロックを実装しています。 [!DNL Chrome] がサードパーティ Cookie をブロックすると、大部分のサードパーティ Cookie はブロックされ、[!DNL Device Co-op] は時代遅れになります。
+AdTech 環境の今後の変更に伴い、[!DNL Device Co-op] は今後数年で時代遅れのソリューションとなることが想定されます。 [!DNL Device Co-op] は主にサードパーティ Cookie で構成されており、2022 年までに [!DNL Google Chrome] でサードパーティ Cookie をブロックするという [!DNL Google's] のお知らせにより、[!DNL Device Co-op] の効果は低下することになります。 [!DNL Chrome] はブラウザー市場で約 65％のシェアを持っており、その他の主要ブラウザーでも既に、サードパーティ Cookie のブロック機能が実装されています。 [!DNL Chrome] がサードパーティ Cookie をブロックすると、大部分のサードパーティ Cookie はブロックされ、[!DNL Device Co-op] は時代遅れになります。
 
 ## アドビが今 [!DNL Device Co-op] の新規登録を終了する理由
 
-サードパーティ cookie に関する業界の今後の変化により、顧客の期待に応えなくなるリスクを防ぐために、サインアップは終了します。[!DNL Device Co-op] 準備に数か月、サービスから価値を引き出すにさらに数か月かかります。 この時点でさらに新規登録を受け入れても、ブランドが [!DNL Device Co-op] の価値を十分に活用できない可能性があります。
+サードパーティ Cookie に関する今後の業界の変化により、顧客の期待に応えられなくなるリスクを防ぐため、新規登録を終了します。 [!DNL Device Co-op] は、準備に数か月、サービスから価値を引き出すまでにさらに数か月かかります。 この時点でさらに新規登録を受け入れても、ブランドが [!DNL Device Co-op] の価値を十分に活用できない可能性があります。
 
 ## 2022年7月、Google は Chrome でのサードパーティ cookie の廃止を 2024年に延期することを発表しました。 これによって [!DNL Device Co-op] 提供終了（EOL）の予定に影響はありますか。
 
@@ -75,9 +75,9 @@ Adobe Experience Platform ID サービスの[非公開グラフ](https://experie
 
 現在、[!DNL Target] には代替手段はありません。理由は、[!DNL Target] が、アドビの顧客 ID と同様に機能する `mbox3rdPartyId` として知られる決定論的なクロスデバイス ID スティッチング機能を備えているためです。 この機能により、[!DNL Target] のお客様は、インバウンドチャネルで行われている [!DNL Target] テストとパーソナライゼーション全体で、プロファイルとアクティビティへのパーティシペーションを結合できます。
 
-### Adobe Advertising Cloud
+### Adobe Advertising
 
-[!DNL Advertising Cloud] のお客様は、クロスデバイスオーディエンスのターゲティングと測定に [!DNL Device Co-op] を使用できなくなります。 [!DNL Advertising Cloud] では、アドビと [!DNL LiveRamp] の [!DNL Device Graph] パートナーシップを活用して、[!DNL LiveRamp's] の能力と規模の範囲でこれらの機能を引き続き実行することができます。 [!DNL Device Co-op] を使用しているキャンペーンを終了させてから、[!DNL LiveRamp] デバイスグラフプロバイダーに切り替えるか、人物ベースのターゲティングの活用を停止する必要があります。
+[!DNL Adobe Advertising] のお客様は、クロスデバイスオーディエンスのターゲティングと測定に [!DNL Device Co-op] を使用できなくなります。 [!DNL Advertising] では、アドビと [!DNL LiveRamp] の [!DNL Device Graph] パートナーシップを活用して、[!DNL LiveRamp's] の能力と規模の範囲でこれらの機能を引き続き実行することができます。 [!DNL Device Co-op] を使用しているキャンペーンを終了させてから、[!DNL LiveRamp] デバイスグラフプロバイダーに切り替えるか、人物ベースのターゲティングの活用を停止する必要があります。
 
 ## クッキーレスの未来に備えるために役立つ既存の機能と実装は何ですか？
 
@@ -88,7 +88,7 @@ Adobe Experience Platform ID サービスの[非公開グラフ](https://experie
 
 ## [!DNL Device Co-op] からのデータを保持できますか？
 
-[!DNL Audience Manager] および [!DNL Advertising Cloud] ユーザーの場合、[!DNL Device Co-op] のデータは、サードパーティのグラフに転送できなくなります。[!DNL Device Co-op] データは、フィールドベースのステッチに切り替える [!DNL Device Co-op] に CDA を使用している [!DNL Analytics Ultimate] ユーザーの場合にのみ移行されます。 その他のすべてのソリューションでは、データは移行されません。
+[!DNL Audience Manager] および [!DNL Advertising] ユーザーの場合、[!DNL Device Co-op] からのデータをサードパーティのグラフに転送することはできません。 [!DNL Device Co-op] データは、CDA を使用して [!DNL Device Co-op] をフィールドベースのスティッチングに切り替える [!DNL Analytics Ultimate] ユーザーの場合にのみ移行されます。 その他のすべてのソリューションでは、データは移行されません。
 
 ## 他の機能の導入は必須ですか？
 
