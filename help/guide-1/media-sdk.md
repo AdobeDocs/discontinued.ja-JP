@@ -44,14 +44,14 @@ Adobeでは、Edge Networkの導入により、従来のハートビート SDK�
 
 | バージョン | ステータス | アーカイブされたドキュメント |
 |---|---|---|
-| 1.x （ビデオハートビートライブラリ） | 非推奨（廃止予定） | [`video-heartbeat` GitHub リポジトリ ](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
-| 2.x （Media SDK） | サポート終了2021年8月31日 | [`media-sdks` GitHub リポジトリ ](https://github.com/Adobe-Marketing-Cloud/media-sdks/blob/master/docs/2.x/README.md) |
+| 1.x （ビデオハートビートライブラリ） | 非推奨（廃止予定） | [`video-heartbeat` GitHub リポジトリ &#x200B;](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
+| 2.x （Media SDK） | サポート終了2021年8月31日 | [`media-sdks` GitHub リポジトリ &#x200B;](https://github.com/Adobe-Marketing-Cloud/media-sdks/blob/master/docs/2.x/README.md) |
 
 ## 移行オプションは何ですか？
 
 **オプション 1: Media SDK 3.xへの移行（Analyticsのみ）**
 
-2.xを使用しており、Adobe Analyticsのみを使用している場合は、3.xへの移行が最も簡単です。 完全なAPIの比較とコード例については、[2.xから3.xへの移行ガイド ](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)を参照してください。
+2.xを使用しており、Adobe Analyticsのみを使用している場合は、3.xへの移行が最も簡単です。 完全なAPIの比較とコード例については、[2.xから3.xへの移行ガイド &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)を参照してください。
 
 **オプション 2: Edge Network用ストリーミングメディアへの移行（推奨）**
 
@@ -98,13 +98,13 @@ Adobeでは、すべての新規プロジェクトについて、Edge Networkの
 
 +++**このサポート終了は、tvOS向けSDKに影響しますか？**
 
-はい。 tvOS （バージョン 10以降）の場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用Streaming Mediaに移行することをお勧めします。 詳しくは、[ モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
+はい。 tvOS （バージョン 10以降）の場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用Streaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
 
 +++
 
 +++**このサポート終了は、SDK for Fire TVおよびAndroid TVに影響しますか？**
 
-はい。 Fire TVおよびAndroid TVの場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用のStreaming Mediaに移行することをお勧めします。 詳しくは、[ モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
+はい。 Fire TVおよびAndroid TVの場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用のStreaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
 
 +++
 
@@ -122,6 +122,6 @@ Adobeでは、すべての新規プロジェクトについて、Edge Networkの
 
 >[!MORELIKETHIS]
 >
->* [ ストリーミングメディア実装の概要](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Edge Network用ストリーミングメディア ](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
+>* [&#x200B; ストリーミングメディア実装の概要](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
+>* [Edge Network用ストリーミングメディア &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
 >* [Media SDK 3.x — JavaScript設定](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
