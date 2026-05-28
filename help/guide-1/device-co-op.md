@@ -12,7 +12,7 @@ ht-degree: 95%
 
 # [!DNL Device Co-op] のサービス終了に関する FAQ
 
-このドキュメントでは、CX Enterprise Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 この計画が有効になると、Adobeは[CX Enterprise Central リリースノート &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)に詳細な通知を提供します。
+このドキュメントでは、CX Enterprise Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 この計画が有効になると、Adobeは[CX Enterprise Central リリースノート ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)に詳細な通知を提供します。
 
 [!DNL Device Co-op] は、最高水準のプライバシーと透明性を確保しながら、参加企業が連携して複数のデジタルタッチポイントの中の消費者をより正確に識別できるようにするプログラムです。
 
