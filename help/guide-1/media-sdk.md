@@ -51,15 +51,15 @@ Adobeでは、Edge Networkの導入により、従来のハートビート SDK�
 
 **オプション 1: Media SDK 3.xへの移行（Analyticsのみ）**
 
-2.xを使用しており、Adobe Analyticsのみを使用している場合は、3.xへの移行が最も簡単です。 完全なAPIの比較とコード例については、[2.xから3.xへの移行ガイド &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)を参照してください。
+2.xを使用しており、Adobe Analyticsのみを使用している場合は、3.xへの移行が最も簡単です。 完全なAPIの比較とコード例については、[2.xから3.xへの移行ガイド &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ja)を参照してください。
 
 **オプション 2: Edge Network用ストリーミングメディアへの移行（推奨）**
 
 新しい実装の場合や、複数のAdobe アプリケーションでデータを使用する場合は、Adobe Experience Platform Edge Networkを使用します。
 
-* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
-* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html?lang=ja)
+* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ja)
+* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=ja)
 
 ## FAQ
 
@@ -77,7 +77,7 @@ Adobeでは、Edge Networkの導入により、従来のハートビート SDK�
 
 +++**私はまだMedia SDK 2.xを使用しています。 どうすればよいですか。**
 
-Adobeでは、すべての新規プロジェクトについて、Edge Networkの実装に移行することをお勧めします。 中間ステップが必要な場合は、[JavaScript SDK 2.xから3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)に移行してから、Edge Networkへの移行を計画します。
+Adobeでは、すべての新規プロジェクトについて、Edge Networkの実装に移行することをお勧めします。 中間ステップが必要な場合は、[JavaScript SDK 2.xから3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ja)に移行してから、Edge Networkへの移行を計画します。
 
 +++
 
@@ -85,8 +85,8 @@ Adobeでは、すべての新規プロジェクトについて、Edge Networkの
 
 移行の労力は、顧客ごとの実装によって異なります。 移行ドキュメントを確認した後、追加のサポートについては、コンサルティングまたはカスタマーケアにお問い合わせください。
 
-* [Mobile Edge SDK（AndroidおよびiOS）を使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [JavaScript SDK 2.xから3.xへの移行](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)
+* [Mobile Edge SDK（AndroidおよびiOS）を使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ja)
+* [JavaScript SDK 2.xから3.xへの移行](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ja)
 
 +++
 
@@ -98,13 +98,13 @@ Adobeでは、すべての新規プロジェクトについて、Edge Networkの
 
 +++**このサポート終了は、tvOS向けSDKに影響しますか？**
 
-はい。 tvOS （バージョン 10以降）の場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用Streaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
+はい。 tvOS （バージョン 10以降）の場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用Streaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ja)を参照してください。
 
 +++
 
 +++**このサポート終了は、SDK for Fire TVおよびAndroid TVに影響しますか？**
 
-はい。 Fire TVおよびAndroid TVの場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用のStreaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)を参照してください。
+はい。 Fire TVおよびAndroid TVの場合は、Adobe Experience Platform Mobile SDKを使用してEdge Network用のStreaming Mediaに移行することをお勧めします。 詳しくは、[&#x200B; モバイル Edge SDKを使用したストリーミングメディアの実装](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ja)を参照してください。
 
 +++
 
