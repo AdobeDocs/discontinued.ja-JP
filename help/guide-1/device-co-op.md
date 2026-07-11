@@ -3,16 +3,16 @@ keywords: デバイス コープ；デバイス コープ；提供終了
 title: '[!DNL Device Co-op] のサービス終了に関する FAQ'
 description: Device Co-op の提供終了プランについて説明します。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1213'
 ht-degree: 95%
 
 ---
 
 # [!DNL Device Co-op] のサービス終了に関する FAQ
 
-このドキュメントでは、CX Enterprise Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 この計画が有効になると、Adobeは[CX Enterprise Central リリースノート &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)に詳細な通知を提供します。
+このドキュメントでは、Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 このプランが有効になると、Adobeは[Experience Cloud中央リリースノート ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)で詳細な通知を提供します。
 
 [!DNL Device Co-op] は、最高水準のプライバシーと透明性を確保しながら、参加企業が連携して複数のデジタルタッチポイントの中の消費者をより正確に識別できるようにするプログラムです。
 
