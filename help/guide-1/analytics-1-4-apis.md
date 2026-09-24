@@ -8,7 +8,7 @@ ht-degree: 1%
 ---
 # Adobe Analytics 1.4 APIの提供終了
 
-2026年8月31日（PT）より、AdobeはAdobe Analytics 1.4 APIおよびWSSE認証を廃止しました。 ****&#x200B;このバージョンのAPIを使用するすべてのエンドポイントにアクセスできなくなり、その上に構築された統合が機能しなくなります。
+2026年8月31日（PT）より、AdobeはAdobe Analytics 1.4 APIおよびWSSE認証を廃止しました。 **&#x200B;**&#x200B;このバージョンのAPIを使用するすべてのエンドポイントにアクセスできなくなり、その上に構築された統合が機能しなくなります。
 
 Adobe Analytics 1.4 APIは、レポート、分類、データフィード、セグメント、計算指標、データソース、レポートスイート設定など、幅広いアクションを提供します。 [Adobe Analytics 2.0 API](https://developer.adobe.com/analytics-apis/docs/2.0)に置き換えられました。これにより、セグメントや計算指標などのコンポーネントのレポートと管理など、Adobe Analytics ユーザーインターフェイスで使用できるほとんどのアクションを実行できます。 まだアップグレードが必要な統合環境がある場合は、[Adobe Analytics 2.0 APIへの移行](https://developer.adobe.com/analytics-apis/docs/2.0/guides/migration)のガイドに従ってください。
 
@@ -29,7 +29,7 @@ Adobe Analytics 1.4 APIは、レポート、分類、データフィード、セ
 
 >[!IMPORTANT]
 >
->この提供終了は、データ収集に&#x200B;*影響しません*。 タグ（旧Adobe Launch）、Web SDK、AppMeasurementなどのタグ付けソリューションは影響を受けません。 [ データ挿入API](#data-insertion-api)も&#x200B;*ではなく*&#x200B;廃止されました。 ただし、1.4 データソースまたは分類APIを使用してデータを強化する場合は、これらのワークフローをAdobe Analytics 2.0 APIに移行する必要があります。
+>この提供終了は、データ収集に&#x200B;*影響しません*。 タグ（旧Adobe Launch）、Web SDK、AppMeasurementなどのタグ付けソリューションは影響を受けません。 [&#x200B; データ挿入API](#data-insertion-api)も&#x200B;*ではなく*&#x200B;廃止されました。 ただし、1.4 データソースまたは分類APIを使用してデータを強化する場合は、これらのワークフローをAdobe Analytics 2.0 APIに移行する必要があります。
 
 ## WSSE認証
 

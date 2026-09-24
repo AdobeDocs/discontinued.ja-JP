@@ -18,13 +18,13 @@ ht-degree: 35%
 | 製品 | サポート終了日 | 推奨される代替案 |
 |---|---|---|
 | [[!DNL Analytics 1.4 APIs]](analytics-1-4-apis.md) | 2026年8月31日（PT） | [[!DNL Adobe Analytics 2.0 APIs]](https://developer.adobe.com/analytics-apis/docs/2.0) |
-| [[!DNL Analytics Media SDK]  （1.xおよび2.x） ](media-sdk.md) | 2021年8月31日（2.x） <br>2017年7月25日（1.x） | Edge Network](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/edge/overview)の[[!DNL Media SDK 3.x]](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/overview)または[ ストリーミングメディア |
+| [[!DNL Analytics Media SDK]  （1.xおよび2.x） &#x200B;](media-sdk.md) | 2021年8月31日（2.x） <br>2017年7月25日（1.x） | Edge Network[&#128279;](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/edge/overview)の[[!DNL Media SDK 3.x]](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/overview)または ストリーミングメディア |
 | [!DNL Bloodhound] | 2017年5月1日（PT） | [[!DNL Adobe Experience Platform Assurance]](https://developer.adobe.com/client-sdks/home/base/assurance/) |
 | [[!DNL Channels for Adobe Commerce]](commerce-channels.md) | 2024年7月1日（Channel Manager） <br>2024年10月1日（Amazon Sales Channel） | [[!DNL Adobe Commerce Marketplace]](https://commercemarketplace.adobe.com/) パートナー拡張機能 |
 | [[!DNL Data Connectors]](data-connectors.md) | 2021年8月19日（PT） | [[!DNL Adobe Exchange Marketplace]](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) |
 | [[!DNL Data Workbench]](data-workbench.md) | 2023年12月31日（PT） | [[!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/en/docs/customer-journey-analytics), [[!DNL Query Service]](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=ja), [[!DNL Data Prep]](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=ja) |
-| [[!DNL Device Co-op]](device-co-op.md) | 2022 | [ クロスデバイス分析（フィールドベースの合成） ](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching)、[[!DNL Real-Time CDP]](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform) |
-| [[!DNL Device graph]](device-graph.md) | 2025年12月31日（PT） | [ クロスデバイス分析フィールドベースのステッチング ](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching) |
+| [[!DNL Device Co-op]](device-co-op.md) | 2022 | [&#x200B; クロスデバイス分析（フィールドベースの合成） &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching)、[[!DNL Real-Time CDP]](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform) |
+| [[!DNL Device graph]](device-graph.md) | 2025年12月31日（PT） | [&#x200B; クロスデバイス分析フィールドベースのステッチング &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching) |
 | [[!DNL Experience Cloud Library]](experience-cloud-library.md) | 2020年3月 | [[!DNL CX Enterprise Assets]](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=ja), [[!DNL AEM Assets]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=ja) |
 | [!DNL Experience Manager Mobile] | 2021年4月3日（PT） | [[!DNL AEM Sites]  ヘッドレスコンテンツ配信](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/headless/introduction) |
 | [[!DNL Experience Platform Auditor]](auditor.md) | 提供終了 | [[!DNL Experience Platform Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=ja) ブラウザー拡張機能 |
@@ -52,4 +52,4 @@ ht-degree: 35%
 
 >[!MORELIKETHIS]
 >
->CX Enterprise以外で提供を終了したAdobe アプリとサービスの一覧については、[無料および提供終了した製品| サポートオプション ](https://helpx.adobe.com/jp/support/programs/support-options-free-discontinued-apps-services.html)を参照してください。
+>CX Enterprise以外で提供を終了したAdobe アプリとサービスの一覧については、[無料および提供終了した製品| サポートオプション &#x200B;](https://helpx.adobe.com/jp/support/programs/support-options-free-discontinued-apps-services.html)を参照してください。
