@@ -57,7 +57,7 @@ Adobeでは、Edge Networkの導入により、従来のハートビート SDK�
 
 * [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
 * [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=ja)
 
 ## FAQ
 
@@ -120,6 +120,6 @@ Adobeでは、すべての新規プロジェクトについて、Edge Networkの
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; ストリーミングメディア実装の概要](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Edge Network用ストリーミングメディア &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Media SDK 3.x — JavaScript設定](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [&#x200B; ストリーミングメディア実装の概要](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=ja)
+>* [Edge Network用ストリーミングメディア &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=ja)
+>* [Media SDK 3.x — JavaScript設定](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=ja)
