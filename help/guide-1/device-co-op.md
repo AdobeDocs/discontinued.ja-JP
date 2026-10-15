@@ -7,9 +7,7 @@ source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
 source-wordcount: '1213'
 ht-degree: 95%
-
 ---
-
 # [!DNL Device Co-op] のサービス終了に関する FAQ
 
 このドキュメントでは、Device Co-op End-of-life （EOL）プランに関するよくある質問に対する回答を提供します。 このプランが有効になると、Adobeは[Experience Cloud中央リリースノート &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ja)および[優先製品更新](https://www.adobe.com/jp/subscription/priority-product-update.html)で詳細な通知を提供します。
